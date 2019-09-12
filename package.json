@@ -4,6 +4,7 @@
     "description": "Boss colour theme",
     "version": "0.0.1",
     "publisher": "29ways",
+    "repository": "https://github.com/29ways/boss-vscode.git",
     "engines": {
         "vscode": "^1.38.0"
     },
