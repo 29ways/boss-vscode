@@ -1,0 +1,22 @@
+{
+    "name": "boss",
+    "displayName": "Boss",
+    "description": "Boss colour theme",
+    "version": "0.0.1",
+    "publisher": "29ways",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Boss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Boss-color-theme.json"
+            }
+        ]
+    }
+}
