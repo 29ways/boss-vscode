@@ -2,4 +2,4 @@
 
 A simple VSCode theme.
 
-![boss](screenshots/boss.png)
+![boss](assets/boss.png)
