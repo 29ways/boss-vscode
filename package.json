@@ -2,7 +2,7 @@
     "name": "boss",
     "displayName": "Boss",
     "description": "Boss colour theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "29ways",
     "repository": "https://github.com/29ways/boss-vscode.git",
     "engines": {
