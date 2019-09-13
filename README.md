@@ -1,3 +1,5 @@
 # Boss
 
-A simple VSCode theme. 
+A simple VSCode theme.
+
+![boss](screenshots/boss.png)
